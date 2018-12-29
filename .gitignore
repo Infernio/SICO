@@ -1,0 +1,5 @@
+# Compiled scripts
+*.pex
+
+# Temporary build folder
+/temp/

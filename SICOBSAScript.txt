@@ -1,0 +1,11 @@
+Log: ./SICOBSALog.txt
+New Archive
+Check: Meshes
+Check: Textures
+Check: Misc
+Check: Compress Archive
+Check: Retain Directory Names
+Check: Retain File Names
+Set File Group Root: Data\
+Add File Group: ./SICOBSAManifest.txt
+Save Archive: ./SICO.bsa
